@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/Terry-Mao/goim/api/comet/grpc"
-	"github.com/Terry-Mao/goim/internal/logic/model"
+	"github.com/nanfengpo/goim/api/comet/grpc"
+	"github.com/nanfengpo/goim/internal/logic/model"
 	log "github.com/golang/glog"
 	"github.com/google/uuid"
 )

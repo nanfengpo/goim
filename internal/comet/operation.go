@@ -4,9 +4,9 @@ import (
 	"context"
 	"time"
 
-	model "github.com/Terry-Mao/goim/api/comet/grpc"
-	logic "github.com/Terry-Mao/goim/api/logic/grpc"
-	"github.com/Terry-Mao/goim/pkg/strings"
+	model "github.com/nanfengpo/goim/api/comet/grpc"
+	logic "github.com/nanfengpo/goim/api/logic/grpc"
+	"github.com/nanfengpo/goim/pkg/strings"
 	log "github.com/golang/glog"
 
 	"google.golang.org/grpc"

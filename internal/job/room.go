@@ -4,9 +4,9 @@ import (
 	"errors"
 	"time"
 
-	comet "github.com/Terry-Mao/goim/api/comet/grpc"
-	"github.com/Terry-Mao/goim/internal/job/conf"
-	"github.com/Terry-Mao/goim/pkg/bytes"
+	comet "github.com/nanfengpo/goim/api/comet/grpc"
+	"github.com/nanfengpo/goim/internal/job/conf"
+	"github.com/nanfengpo/goim/pkg/bytes"
 	log "github.com/golang/glog"
 )
 
